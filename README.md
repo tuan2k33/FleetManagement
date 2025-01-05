@@ -1,4 +1,4 @@
-# ltnc project
+# Advanced Programming Project
  Để có thể chạy ứng dụng, cần:
  1. Cài đặt phần mềm XAMPP với phiên bản v3.3.0 trở lên
  2. Chuyển folder AP_Assignment vào đường dẫn C:\xampp\htdocs
