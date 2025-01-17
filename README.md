@@ -1,5 +1,6 @@
 # Advanced Programming Project
- Cách chạy ứng dụng:
+Bài tập lớn môn Lập trình Nâng cao, làm về web app quản lý đội xe, giao diện cho khách, tài xế và admin.
+## Cách chạy
  1. Cài đặt XAMPP phiên bản >= v3.3.0
  2. Chuyển folder AP_Assignment vào đường dẫn *C:\xampp\htdocs*
  3. Ấn **Start** ở Apache và MySQL trong giao diện của XAMPP
@@ -10,3 +11,5 @@
  6. Tài khoản của quản trị viên:
  + Username: admin@hcmut.edu.vn
  + Password: @adminHCMUT
+## Hướng mở rộng
+??
